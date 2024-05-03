@@ -1,0 +1,17 @@
+{
+  "version": "0.0.0",
+  "name": "@carriere/styles",
+  "files": [
+    "src/index.scss"
+  ],
+  "main": "src/index.scss",
+  "exports": {
+    ".": "./src/index.scss"
+  },
+  "peerDependencies": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
